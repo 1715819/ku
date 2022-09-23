@@ -1,4 +1,4 @@
-FROM xhofe/alist:v3.0.1
+FROM xyouxiu6/alist:v2.6.1
 LABEL MAINTAINER="i@nn.ci"
 WORKDIR /opt/alist/
 
